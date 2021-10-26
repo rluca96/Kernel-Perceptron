@@ -1,4 +1,5 @@
 # Kernel Perceptron For Multiclass Classification using MNIST dataset
+![Mnist Digit](numbers.png)
 
 ## Assignment
 Digit classification with the Kernel Perceptron
